@@ -122,11 +122,8 @@
   },
   {
     "type": "heading",
-    "heading": "VENTURE CREATION (GES 300.2 WORKBOOK)"
-  },
-  {
-    "type": "heading",
-    "heading": "CHAPTER ONE: INTRODUCTION TO ENTREPRENEURSHIP (25 DETAILED MCQs)"
+    "heading": "CHAPTER ONE",
+    "Subheading":"INTRODUCTION TO ENTREPRENEURSHIP (25 DETAILED MCQs)"
   },
   {
     "type": "Question",
@@ -1284,7 +1281,8 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER TWO: OPPORTUNITY IDENTIFICATION AND EVALUATION (25 MCQs)"
+    "heading": "CHAPTER TWO",
+  "Subheading":"OPPORTUNITY IDENTIFICATION AND EVALUATION (25 MCQs)"
   },
   {
     "type": "Question",
@@ -2454,7 +2452,8 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER THREE: BUSINESS IDEA GENERATION AND DEVELOPMENT (25 MCQs)"
+    "heading": "CHAPTER THREE",
+    "Subheading":"BUSINESS IDEA GENERATION AND DEVELOPMENT (25 MCQs)"
   },
   {
     "type": "Question",
@@ -3633,7 +3632,8 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER FOUR: BUSINESS PLAN DEVELOPMENT (25 MCQs)"
+    "heading": "CHAPTER FOUR",
+    "Subheading":"BUSINESS PLAN DEVELOPMENT (25 MCQs)"
   },
   {
     "type": "Question",
@@ -4813,7 +4813,8 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER FIVE: LEGAL AND REGULATORY FRAMEWORK (25 MCQs)"
+    "heading": "CHAPTER FIVE",
+    "Subheading":"LEGAL AND REGULATORY FRAMEWORK (25 MCQs)"
   },
   {
     "type": "Question",
@@ -5969,6 +5970,7 @@
   {
     "type": "heading",
     "heading": "CHAPTER SIX: FINANCING NEW VENTURES (25 MCQs)"
+    
   },
   {
     "type": "Question",
@@ -7140,7 +7142,8 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER SEVEN: MARKETING AND CUSTOMER DEVELOPMENT (25 MCQs)"
+    "heading": "CHAPTER SEVEN",
+    "Subheading":"MARKETING AND CUSTOMER DEVELOPMENT (25 MCQs)"
   },
   {
     "type": "Question",
@@ -8307,7 +8310,8 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER EIGHT: OPERATIONS AND PRODUCTION MANAGEMENT (25 MCQs)"
+    "heading": "CHAPTER EIGHT",
+    "Subheading":"OPERATIONS AND PRODUCTION MANAGEMENT (25 MCQs)"
   },
   {
     "type": "Question",
@@ -9479,7 +9483,10 @@
   },
   {
     "type": "heading",
-    "heading": "CHAPTER NINE: HUMAN RESOURCE MANAGEMENT (25 MCQs)"
+    "heading": "CHAPTER NINE",
+    "Subheading":"HUMAN RESOURCE MANAGEMENT (25 MCQs)"
+
+
   },
   {
     "type": "Question",
